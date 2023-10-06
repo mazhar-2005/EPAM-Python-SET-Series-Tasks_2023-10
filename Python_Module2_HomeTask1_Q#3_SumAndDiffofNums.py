@@ -1,0 +1,6 @@
+num1 = input("Enter first num: ")
+num2 = input("Enter second num: ")
+sum = int(num1)+int(num2)
+diff = abs(int(num1)-int(num2))
+print("Sum of "+str(num1)+" and "+str(num2)+" is "+str(sum))
+print("Diff of "+str(num1)+" and "+str(num2)+" is "+str(diff))
